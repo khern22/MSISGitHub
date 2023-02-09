@@ -13,6 +13,8 @@ KH_Basic_App_GitHub.Basic_Webform" %>
             <% KH_Basic_App_GitHub.Class1 tp = new KH_Basic_App_GitHub.Class1(); %> 
               
             <%=tp.Name %> 
+
+            GitHub Changes
         </div> 
     </form> 
 </body> 
